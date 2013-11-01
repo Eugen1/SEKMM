@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="Stundenplaner_13b.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Stundenplaner_13b"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Name ="contentGrid" Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock Text="Startseite" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="120" FontFamily="Arial"/>
+        
+        <TextBlock Text="Schulstart :" Margin="45,260,0,0" FontSize="40" HorizontalAlignment="Left" Width="379" Height="50" VerticalAlignment="Top"/>
+        <TextBox Name ="Schulstart" Height="30" Width="250" Margin="429,265,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        
+        <TextBlock Text="Dauer einer Stunde :" Margin="45,320,0,0" FontSize="40" HorizontalAlignment="Left" Width="379" Height="50" VerticalAlignment="Top"/>
+        <TextBox Name="Dauer" Height="30" Width="250" Margin="429,325,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+
+        <TextBlock Text="Klassenlehrer :" Margin="45,380,0,0" FontSize="40" HorizontalAlignment="Left" Width="379" Height="50" VerticalAlignment="Top"/>
+        <TextBox Name="Klassenlehrer" Height="30" Width="250" Margin="429,385,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+
+        <TextBlock Text="1. Pausen Länge :" Margin="45,440,0,0" FontSize="40" HorizontalAlignment="Left" Width="379" Height="50" VerticalAlignment="Top"/>
+        <TextBox Name ="PausenLaenge" Height="30" Width="250" Margin="429,445,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        
+        <Button x:ConnectionId='1' Name="WeiterePausenLaenge" Content="andere Pausen Länge " Height="40" Margin="40,270,0,0"                                   />   
+        
+               
+        
+    </Grid>
+</Page>
+
