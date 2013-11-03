@@ -22,11 +22,11 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Eugen Romanenkov\Downloads\SEKMM-Stundenplaner-master\SEKMM-Stundenplaner-master\Stundenplaner 13b\Stundenplaner 13b\bin\Debug\Stundenplaner 13b.exe">
       <PackagePath>Stundenplaner 13b.exe</PackagePath>
-      <Modified>2013-11-01T20:58:58.983</Modified>
+      <Modified>2013-11-01T22:20:28.828</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eugen Romanenkov\Downloads\SEKMM-Stundenplaner-master\SEKMM-Stundenplaner-master\Stundenplaner 13b\Stundenplaner 13b\bin\Debug\Stundenplaner 13b.pdb">
       <PackagePath>Stundenplaner 13b.pdb</PackagePath>
-      <Modified>2013-11-01T20:58:58.946</Modified>
+      <Modified>2013-11-01T22:20:28.790</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eugen Romanenkov\Downloads\SEKMM-Stundenplaner-master\SEKMM-Stundenplaner-master\Stundenplaner 13b\Stundenplaner 13b\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -54,7 +54,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eugen Romanenkov\Downloads\SEKMM-Stundenplaner-master\SEKMM-Stundenplaner-master\Stundenplaner 13b\Stundenplaner 13b\bin\Debug\MainPage.xaml">
       <PackagePath>MainPage.xaml</PackagePath>
-      <Modified>2013-11-01T20:22:12.407</Modified>
+      <Modified>2013-11-01T21:38:47.723</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eugen Romanenkov\Downloads\SEKMM-Stundenplaner-master\SEKMM-Stundenplaner-master\Stundenplaner 13b\Stundenplaner 13b\bin\Debug\Common\StandardStyles.xaml">
       <PackagePath>Common\StandardStyles.xaml</PackagePath>

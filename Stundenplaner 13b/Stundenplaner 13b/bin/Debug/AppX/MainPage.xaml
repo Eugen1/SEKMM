@@ -10,8 +10,8 @@
     <Grid Name ="contentGrid" Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
         <TextBlock Text="Startseite" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="120" FontFamily="Arial"/>
         
-        <TextBlock Text="Schulstart :" Margin="45,260,0,0" FontSize="40" HorizontalAlignment="Left" Width="379" Height="50" VerticalAlignment="Top"/>
-        <TextBox Name ="Schulstart" Height="30" Width="250" Margin="429,265,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <TextBlock Text="Schulbeginn :" Margin="45,260,0,0" FontSize="40" HorizontalAlignment="Left" Width="379" Height="50" VerticalAlignment="Top"/>
+        <TextBox Name ="Schulbeginn" Height="30" Width="250" Margin="429,265,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
         
         <TextBlock Text="Dauer einer Stunde :" Margin="45,320,0,0" FontSize="40" HorizontalAlignment="Left" Width="379" Height="50" VerticalAlignment="Top"/>
         <TextBox Name="Dauer" Height="30" Width="250" Margin="429,325,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
@@ -20,9 +20,9 @@
         <TextBox Name="Klassenlehrer" Height="30" Width="250" Margin="429,385,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
 
         <TextBlock Text="1. Pausen Länge :" Margin="45,440,0,0" FontSize="40" HorizontalAlignment="Left" Width="379" Height="50" VerticalAlignment="Top"/>
-        <TextBox Name ="PausenLaenge" Height="30" Width="250" Margin="429,445,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <TextBox x:ConnectionId='1' Name ="PausenLaenge" Height="30" Width="250" Margin="429,445,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"                                        />
         
-        <Button x:ConnectionId='1' Name="WeiterePausenLaenge" Content="andere Pausen Länge " Height="40" Margin="40,270,0,0"                                   />   
+        <Button x:ConnectionId='2' Name="WeiterePausenLaenge" Content="andere Pausen Länge " Height="40" Margin="40,270,0,0"                                   />   
         
                
         
