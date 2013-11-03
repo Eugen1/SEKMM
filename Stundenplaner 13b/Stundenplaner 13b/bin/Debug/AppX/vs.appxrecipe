@@ -13,56 +13,56 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Eugen Romanenkov\Downloads\SEKMM-Stundenplaner-master\SEKMM-Stundenplaner-master\Stundenplaner 13b\Stundenplaner 13b\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-11-01T20:07:26.239</Modified>
+      <Modified>2013-11-03T14:44:52.061</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Eugen Romanenkov\Downloads\SEKMM-Stundenplaner-master\SEKMM-Stundenplaner-master\Stundenplaner 13b\Stundenplaner 13b\bin\Debug\Stundenplaner 13b.exe">
+    <AppxPackagedFile Include="C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\bin\Debug\Stundenplaner 13b.exe">
       <PackagePath>Stundenplaner 13b.exe</PackagePath>
-      <Modified>2013-11-01T22:20:28.828</Modified>
+      <Modified>2013-11-03T14:44:51.318</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eugen Romanenkov\Downloads\SEKMM-Stundenplaner-master\SEKMM-Stundenplaner-master\Stundenplaner 13b\Stundenplaner 13b\bin\Debug\Stundenplaner 13b.pdb">
+    <AppxPackagedFile Include="C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\bin\Debug\Stundenplaner 13b.pdb">
       <PackagePath>Stundenplaner 13b.pdb</PackagePath>
-      <Modified>2013-11-01T22:20:28.790</Modified>
+      <Modified>2013-11-03T14:44:51.269</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eugen Romanenkov\Downloads\SEKMM-Stundenplaner-master\SEKMM-Stundenplaner-master\Stundenplaner 13b\Stundenplaner 13b\Assets\Logo.png">
+    <AppxPackagedFile Include="C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-10-31T15:34:17.531</Modified>
+      <Modified>2013-11-03T14:41:48.910</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eugen Romanenkov\Downloads\SEKMM-Stundenplaner-master\SEKMM-Stundenplaner-master\Stundenplaner 13b\Stundenplaner 13b\Assets\SmallLogo.png">
+    <AppxPackagedFile Include="C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\Assets\SmallLogo.png">
       <PackagePath>Assets\SmallLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-10-31T15:34:17.540</Modified>
+      <Modified>2013-11-03T14:41:48.912</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eugen Romanenkov\Downloads\SEKMM-Stundenplaner-master\SEKMM-Stundenplaner-master\Stundenplaner 13b\Stundenplaner 13b\Assets\SplashScreen.png">
+    <AppxPackagedFile Include="C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-10-31T15:34:17.551</Modified>
+      <Modified>2013-11-03T14:41:48.914</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eugen Romanenkov\Downloads\SEKMM-Stundenplaner-master\SEKMM-Stundenplaner-master\Stundenplaner 13b\Stundenplaner 13b\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-10-31T15:34:17.561</Modified>
+      <Modified>2013-11-03T14:41:48.916</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eugen Romanenkov\Downloads\SEKMM-Stundenplaner-master\SEKMM-Stundenplaner-master\Stundenplaner 13b\Stundenplaner 13b\bin\Debug\App.xaml">
+    <AppxPackagedFile Include="C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\bin\Debug\App.xaml">
       <PackagePath>App.xaml</PackagePath>
-      <Modified>2013-10-31T15:34:16.960</Modified>
+      <Modified>2013-11-03T14:41:48.899</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eugen Romanenkov\Downloads\SEKMM-Stundenplaner-master\SEKMM-Stundenplaner-master\Stundenplaner 13b\Stundenplaner 13b\bin\Debug\MainPage.xaml">
+    <AppxPackagedFile Include="C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\bin\Debug\MainPage.xaml">
       <PackagePath>MainPage.xaml</PackagePath>
       <Modified>2013-11-01T21:38:47.723</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eugen Romanenkov\Downloads\SEKMM-Stundenplaner-master\SEKMM-Stundenplaner-master\Stundenplaner 13b\Stundenplaner 13b\bin\Debug\Common\StandardStyles.xaml">
+    <AppxPackagedFile Include="C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\bin\Debug\Common\StandardStyles.xaml">
       <PackagePath>Common\StandardStyles.xaml</PackagePath>
-      <Modified>2013-10-31T15:34:17.596</Modified>
+      <Modified>2013-11-03T14:41:48.934</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eugen Romanenkov\Downloads\SEKMM-Stundenplaner-master\SEKMM-Stundenplaner-master\Stundenplaner 13b\Stundenplaner 13b\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-11-01T20:07:26.187</Modified>
+      <Modified>2013-11-03T14:44:51.602</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

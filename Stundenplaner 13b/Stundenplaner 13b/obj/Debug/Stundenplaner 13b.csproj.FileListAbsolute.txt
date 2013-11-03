@@ -44,3 +44,26 @@ C:\Users\Eugen Romanenkov\Downloads\SEKMM-Stundenplaner-master\SEKMM-Stundenplan
 C:\Users\Eugen Romanenkov\Downloads\SEKMM-Stundenplaner-master\SEKMM-Stundenplaner-master\Stundenplaner 13b\Stundenplaner 13b\obj\Debug\pri.resfiles
 C:\Users\Eugen Romanenkov\Downloads\SEKMM-Stundenplaner-master\SEKMM-Stundenplaner-master\Stundenplaner 13b\Stundenplaner 13b\obj\Debug\LanguageQualifiers.txt
 C:\Users\Eugen Romanenkov\Downloads\SEKMM-Stundenplaner-master\SEKMM-Stundenplaner-master\Stundenplaner 13b\Stundenplaner 13b\obj\Debug\ProjectArchitectures.txt
+C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\bin\Debug\Stundenplaner 13b.exe
+C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\bin\Debug\Stundenplaner 13b.pdb
+C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\bin\Debug\resources.pri
+C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\bin\Debug\AppxManifest.xml
+C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\bin\Debug\Stundenplaner 13b.build.appxrecipe
+C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\obj\Debug\App.g.i.cs
+C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\obj\Debug\App.g.cs
+C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\obj\Debug\MainPage.g.i.cs
+C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\obj\Debug\MainPage.g.cs
+C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\obj\Debug\App.xaml
+C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\obj\Debug\MainPage.xaml
+C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\obj\Debug\Stundenplaner 13b.exe
+C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\obj\Debug\Stundenplaner 13b.pdb
+C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\obj\Debug\priconfig.xml
+C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\obj\Debug\layout.resfiles
+C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\obj\Debug\resources.resfiles
+C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\obj\Debug\pri.resfiles
+C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\obj\Debug\LanguageQualifiers.txt
+C:\Users\Eugen Romanenkov\Documents\GitHub\SEKMM\Stundenplaner 13b\Stundenplaner 13b\obj\Debug\ProjectArchitectures.txt
